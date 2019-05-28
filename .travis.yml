@@ -4,3 +4,7 @@ go:
 - 1.12.4
 
 script: go test -v ./hello/*
+
+notifications:
+  slack:
+    on_success:always
