@@ -9,4 +9,4 @@ notifications:
   email:
     recipients:
       kqzang@126.com
-    on_success:always
+    on_success: always
